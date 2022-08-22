@@ -241,7 +241,7 @@ button:hover{
 .artikel{
 	background: #c6c4c4;
 	width: 100%;
-	padding: 100px 0px;
+	padding: 30px 0px;
 }
 .title h2{
 	color: #655f5f;
@@ -266,6 +266,59 @@ button:hover{
 	position: relative;
 	overflow: hidden;
 	text-align: center;
+}
+.artikel1{
+	background: #ffffff;
+	width: 100%;
+	padding: 30px 0px;
+}
+.pra1 p{
+	color: #323131;
+	font-size: 14px;
+	line-height: 25px;
+	margin-bottom: 25px;
+	text-align: left;
+}
+.box1{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 500px;
+}
+.card1{
+	height: 4500px;
+	width: 1100px;
+	padding: 20px 35px;
+	background: #f8b96c;
+	border-radius: 20px;
+	margin: 15px;
+	position: relative;
+	overflow: hidden;
+	text-align: center;
+}
+.footer1{
+	width: 100%;
+	height: 195px;
+	background: #edededfd;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
+}
+.footer1 .button-two{
+	background-color:#655f5f;
+	color: white;
+	text-decoration: none;
+	border: 3px solid transparent;
+	font-weight: bold;
+	padding: 13px 30px;
+	border-radius: 30px;
+	transition: .4s; 
+}
+.footer1 .button-two:hover{
+	background-color: #3c3b3b;;
+	border: 4px solid rgb(255, 255, 255);
+	cursor: pointer;
 }
 h5{
 	color: white;
