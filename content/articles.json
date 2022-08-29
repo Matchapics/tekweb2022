@@ -1,0 +1,29 @@
+[
+    {
+	"num": "1",
+        "title":"Rumah Pocong Sura",
+        "description":"Dulu, ada warga disini meninggal, tapi hidup lagi. Orang-orang taunya dia mati suri, padahal yang hidup lagi itu pocongnya! Awalnya nggak ada yang tau, termasuk keluarganya yang tinggal serumah--Narasumber",
+        "thumbnail": "https://pbs.twimg.com/media/FWk3vhBUYAAXHNI?format=jpg&name=4096x4096",
+        "author": "Muhammad Syafiqurrahman",
+        "published_at": "25 Agustus 2022",
+	"content": "pocong.html"
+    },
+	{
+	"num": "2",
+        "title":"Sinden Pengabdi Setan",
+        "description":"3 dari sekian banyak jajanan yang bikin kalap pas liat",
+        "thumbnail": "https://pbs.twimg.com/media/FUyw5iHVIAEPwgG?format=jpg&name=4096x4096",
+        "author": "Muhammad Syafiqurrahman",
+        "published_at": "25 Agustus 2022",
+	"content": "sinden.html"
+    },
+	{
+	"num": "3",
+        "title":"KKN Di Rumah Bekas Pembantaian",
+        "description":"Ini diisi nanti yaa",
+        "thumbnail": "https://pbs.twimg.com/media/FP45_IqacAE72l1?format=jpg&name=large",
+        "author": "Muhammad Syafiqurrahman",
+        "published_at": "25 Agustus 2022",
+	"content": "kkn.html"
+    }
+]
